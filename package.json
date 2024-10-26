@@ -1,0 +1,17 @@
+{
+  "name": "farm-game",
+  "version": "1.0.0",
+  "description": "Juego de granja con integración USB y blockchain",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@walletconnect/web3-provider": "^1.8.0",
+    "web3": "^1.9.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
